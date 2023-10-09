@@ -693,6 +693,11 @@ footer div {
         flex-direction: column;
     }
 
+    footer div {
+        width: 100%;
+    }
+
+
 
 
 }
